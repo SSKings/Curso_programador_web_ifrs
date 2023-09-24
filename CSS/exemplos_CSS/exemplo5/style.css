@@ -1,0 +1,15 @@
+body {
+    background: #eee;
+}
+
+@media screen and (max-width:600px){
+    body {
+        background: #F9C;
+    }
+}
+
+@media screen and (min-width:900px){
+    body {
+        background: #F90;
+    }
+}
